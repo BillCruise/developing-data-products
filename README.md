@@ -5,6 +5,8 @@ This app uses data downloaded from IMDb's [Plain Text Data Files](http://www.imd
 
 View the app at [https://billcruise.shinyapps.io/tv-ratings/](https://billcruise.shinyapps.io/tv-ratings/)
 
+View a short slidify presentation at [http://billcruise.github.io/developing-data-products/tv-ratings/slides/index.html#1](http://billcruise.github.io/developing-data-products/tv-ratings/slides/index.html#1)
+
 ---
 
 ### TV Ratings Data Preprocessing Steps
