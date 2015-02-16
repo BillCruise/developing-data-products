@@ -20,7 +20,7 @@ This is most easily done in Notepad++.
 
 1. Go to Search menu > Find... > Select "Mark" Tab. 
 2. Activate regular expressions. 
-3. Search for \)\}$ ($ is for line end).
+3. Search for '\)\}$' ($ is for line end).
 4. Don't forget to check "Bookmark lines" and Press "Mark All"
 5. Go to Search Menu -> Bookmark -> Remove Unmarked Lines.
 6. Search > Bookmarks > Clear all bookmarks
